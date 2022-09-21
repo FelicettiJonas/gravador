@@ -43,7 +43,7 @@ dev_dependencies:
   flutter_native_splash: ^2.2.9
 
 flutter_native_splash:
-  color: "#570861"
+  color: "#442747"
   image: assets/images/microfone.png
   android: true
 
